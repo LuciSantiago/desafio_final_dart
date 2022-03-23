@@ -2,6 +2,8 @@
 
 ## Recursos utilizados:
 * Banco de dados mysql community-8.0.23.0
+* api dos estados: https://servicodados.ibge.gov.br/api/v1/localidades/estados
+* api das cidades de sp: https://servicodados.ibge.gov.br/api/v1/localidades/estados/35/distritos
 * packages:
   *  mysql1: ^0.19.2
   *  dio: ^4.0.4
